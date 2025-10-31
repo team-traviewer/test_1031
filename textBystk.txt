@@ -1,0 +1,1 @@
+ 두번째로 issue -> branch -> txt 파일 생성했습니다.
